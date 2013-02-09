@@ -1,5 +1,7 @@
 source 'https://rubygems.org'
 
+#Farooq's test commit
+
 gem 'rails', '3.2.5'
 
 # Bundle edge Rails instead:
